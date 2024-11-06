@@ -1,1 +1,10 @@
+# Ignore virtual environments
 venv/
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+
+# Ignore OS-generated files
+.DS_Store
+Thumbs.db
